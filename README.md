@@ -1,6 +1,7 @@
 # calculator
 
 A new Flutter application.
+![hesapmakinasi](https://user-images.githubusercontent.com/78980888/113407992-20970b00-93b7-11eb-8712-d3725180f31f.jpg)
 
 ## Getting Started
 
